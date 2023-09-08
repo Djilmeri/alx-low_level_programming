@@ -8,7 +8,7 @@
  *
  */
 
-ont main(void)
+int main(void)
 
 {
 	int n, lastd;
