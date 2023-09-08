@@ -1,0 +1,19 @@
+ir(','');
+      |                ^
+100-print_comb3.c:25:16: error: missing terminating ' character
+   25 |     putchar(','');
+      |                ^~~
+100-print_comb3.c:25:16: error: expected ‘)’ before ‘putchar’
+   25 |     putchar(','');
+      |                ^
+      |                )
+   26 |     putchar(' ');
+      |     ~~~~~~~     
+100-print_comb3.c:26:18: error: expected ‘;’ before ‘}’ token
+   26 |     putchar(' ');
+      |                  ^
+      |                  ;
+   27 |    }
+      |    ~              
+cc1: all warnings being treated as errors
+
