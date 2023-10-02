@@ -67,4 +67,4 @@ count++;
 printf("%d\n", sum); /*print sum*/
 
 return (0);
-}                                    
+}
